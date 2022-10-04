@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="https://hacktoberfestswaglist.com/img/Hfest-Logo-2-Color-Manga.png" width="50%">
+    </a>
+</p>
+
 # hackfest22
 Any Newbie to Open Source who wants to participate in Hacktoberfest can utilize this repo.
 
