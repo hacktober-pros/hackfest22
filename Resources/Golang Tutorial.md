@@ -17,4 +17,4 @@
 - [Fly with Go](https://github.com/harrytran103/fly-with-go)
 
 
-#### Feel free to add your Golang's resource. Cheers!!
+#### Feel free to add your Golang's resources. Cheers!!
