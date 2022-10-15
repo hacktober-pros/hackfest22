@@ -1,6 +1,6 @@
 # Golang Tutorial
 
-> Hey guys, as a Golang Engineer beginner, how can we learn one fast and effective? This is the answer.
+> Hey guys, as a Golang Engineer beginner, how can we learn one fast and effectively? This is the answer.
 
 - [Golang tutorial series](https://golangbot.com/learn-golang-series/)
 - [Go Language Advanced Programming](https://zalopay-oss.github.io/go-advanced/)
