@@ -7,7 +7,7 @@ If he can try all of them at least once output YES, otherwise output NO.
 
 ## Input Format
 The first line of input contains a single integer TT, denoting the number of test cases. The description of TT test cases follows.
-Each test case consists of a single line of input containing five space-separated integers Z, Y, A, B, CZ,Y,A,B,C.
+Each test case consists of a single line of input containing five space-separated integers Z, Y, A, B, C.
 
 ## Output Format
 For each test case, print a single line containing the answer to that test case — YES if Devendra can try each ride at least once, and NO otherwise.
