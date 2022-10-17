@@ -29,7 +29,7 @@ You are given an array of integers (includes both positive and negative numbers)
 
 ## Output : 
 
-1
+ 1
 
 <br>Explanation:The largest positive and existing the negative number is 1.
 
