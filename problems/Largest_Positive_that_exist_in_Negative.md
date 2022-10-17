@@ -15,7 +15,7 @@ You are given an array of integers (includes both positive and negative numbers)
 
 ## Input : 
 
-[-4,  -1,  2,  3]
+[-4,  -3,  2,  6]
 
 ## Output : 
 
