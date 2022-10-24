@@ -22,3 +22,11 @@
 5. Add your files (`git add -A`), commit (`git commit -m "commit message"`) and push (`git push origin new-branch`).
 6. Create a Pull Request.
 7. VOILA! *Now wait for it to be merged!*
+
+### Instructions
+
+1. Head over to /problems to add coding problems. Read md file to understand.
+2. Head over to /solutions to add solutions tp the problems in the /problems folder. Read md file for instructions.
+3. Head over to /resoures folder to help yourself get familiarised with open source and coding. You can feel free to add resources you find good to the files too.
+
+## HAPPY HACKTOBERFEST!
