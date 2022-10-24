@@ -14,8 +14,10 @@ GitHub repositories that will help you submit valid pull requests and issues.
 1. https://github.com/EbookFoundation/free-programming-books
 2. https://github.com/mui/material-ui
 3. https://github.com/TheAlgorithms/Python
-4. https://github.com/freeCodeCamp/freeCodeCamp
-5. https://github.com/yt-dlp/yt-dlp
+4. https://gihtub.com/TheAlgorithms/Javascript
+5. https://github.com/freeCodeCamp/freeCodeCamp
+6. https://github.com/yt-dlp/yt-dlp
+7. https://github.com/godotengine/godot
 
 ### References
 1. https://github.com/OtacilioN/awesome-hacktoberfest-2022
